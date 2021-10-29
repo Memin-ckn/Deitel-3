@@ -1,11 +1,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+/*
+Başla
+galon, km, toplamKm ve toplamGalon değişkenlerini float olarak tanımla(toplamlara gerek olmayabilir ama böyle daha rahat olur.)
+galon -1 olmadığı sürece while döngüsü çalıştır
+	galon için girdi iste/al
+	galon -1 değilse km girdisi al km/galon yazdır (if)
+		toplamkm ve toplamgalon işlemlerini yaptır
+	toplam ortalama yazdır
+Bitir
+*/
 
 int main(int argc, char *argv[]) {
 	
-	float galon=0, km=0, toplamKm=toplamKm+km, toplamGalon=toplamGalon+galon, sayici;
+	float galon=0, km=0, toplamKm=toplamKm+km, toplamGalon=toplamGalon+galon;
 	
 	while(galon!=-1){
 		
