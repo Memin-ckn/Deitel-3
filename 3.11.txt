@@ -1,0 +1,21 @@
+a) if (yas >= 65)
+ printf ("Yaş 65’ten büyük ya da 65’e eşittir\n");
+ else
+ printf ("Yaş 65’ten küçüktür.\n");
+ 
+b) int x = 1, toplam;
+
+ while (x <= 10) {
+ toplam += x;
+ ++x;
+ }
+ 
+c) while (x <= 100){
+ toplam += x;
+ ++x;
+}
+
+d) while(y<10){
+ printf (“%d\n”, y);
+ ++y;
+ }

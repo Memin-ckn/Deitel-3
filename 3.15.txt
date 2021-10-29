@@ -1,0 +1,34 @@
+a) Klavyeden iki sayı alınız, toplamlarını hesaplayıp sonucu ekrana yazdırınız.
+
+Başla
+x, y tamsayı olarak tanımla; sıfıra ata
+pfintf ile 2 sayı girdisi iste
+scanf ile girdileri al ve sırayla değişkenlere ata
+printf ile toplamlarını yazdır
+Bitir
+
+b) Klavyeden iki sayı alınız, eğer varsa iki sayıdan büyük olanını ekrana yazdırınız.
+
+Başla
+x, y tamsayı olarak tanımla; sıfıra ata
+pfintf ile 2 sayı girdisi iste
+scanf ile girdileri al ve sırayla değişkenlere ata
+if ile eğer ilki daha büyükse 
+	ilklini ekrana yazdır
+else if ikinci daha büyükse
+	ikincisini ekrana yazdır
+Bitir	
+
+c) Klavyeden birkaç pozitif sayı alınız,ve sayıların toplamını hesaplayıp ekrana
+yazdırınız. “Veri girişi sonunu” belirtmek için –1 nöbetçi değerini kullanıldığını
+kabul ediniz.
+
+Başla
+
+nobetci, toplam, sayi tanımla ve sıfıra ata
+nobetci -1 olmadığı sürece (while)
+	toplamı sayı ve toplamın toplamına ata
+	printf ile girdi iste (-1 programı bitirir)
+	scanf ile sayi için girdi al
+ekrana toplamı yazdır
+Bitir

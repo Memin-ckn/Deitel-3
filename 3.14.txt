@@ -1,0 +1,30 @@
+a) “İki Sayı giriniz” mesajını ekrana yazdırın.
+
+Başla
+Printf ile "İki sayı giriniz" yazdır
+Bitir
+
+b) x, y ve z değişkenlerinin toplamını p değişkenine atayınız.
+
+Başla
+x, y, z, p tamsayılarını değişken olarak tanımla
+x + y + z toplamını p değişkenine ata 
+Bitir
+
+c) Aşağıdaki koşul, bir if/else seçim yapısı içerisinde test edilmektedir: m’nin değeri
+v’nin iki katından büyüktür.
+
+Başla
+Eğer m v'nin iki katından büyükse
+	ekrana "m’nin değeri v’nin iki katından büyüktür." yazdır
+değilse
+	ekrana "m’nin değeri v’nin iki katından küçüktür." yazdır
+Bitir
+
+d) s, r ve t değişkenleri için klavyeden değerler alın.
+
+Başla
+s, r, t, tamsayılarını değişken olarak ata
+printf ile kullanıcıdan değer al
+scanf ile değeri değişkenlere ata
+Bitir
