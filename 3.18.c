@@ -1,7 +1,18 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+/*
+Başla
+hesap değişkenini int; bakiye, harcama, kredi ve limit değişkenlerini float olarak tanımla
+hesap -1 olmadığı sürece while döngüsü başlat
+	hesap numarası girdisi iste/al
+	hesap -1 değilse(if)
+		ilk bakiye, harcama, kredi ve limit girdisi al
+		son bakiye hesaplat
+		if bakiye limitten büyükse
+			limit aşıldı yazdır
+Bitir
+*/
 
 int main(int argc, char *argv[]) {
 	
