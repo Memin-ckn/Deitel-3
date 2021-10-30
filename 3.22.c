@@ -7,17 +7,17 @@ int main(int argc, char *argv[]) {
 	
 	int x = 10;
 	
-	printf("%d\n",++x); // Önceden ekleyip yazdýrýr.
-	printf("%d\n\n",x); // Kontrol için.
+	printf("%d\n",++x); // Ã–nceden ekleyip yazdÄ±rÄ±r.
+	printf("%d\n\n",x); // Kontrol iÃ§in.
 	
-	printf("%d\n",x++); //Yazdýrdýktan sonra ekler.
-	printf("%d\n\n",x); // Kontrol için.
+	printf("%d\n",x++); // YazdÄ±rdÄ±ktan sonra sonra ekler.
+	printf("%d\n\n",x); // Kontrol iÃ§in.
 	
-	printf("%d\n",--x); // Önceden çýkartýp yazdýrýr.
-	printf("%d\n\n",x); // Kontrol için.
+	printf("%d\n",--x); // Ã–nceden Ã§Ä±kartÄ±p yazdÄ±rÄ±r.
+	printf("%d\n\n",x); // Kontrol iÃ§in.
 	
-	printf("%d\n",x--); //Yazdýrdýktan sonra çýkartýr.
-	printf("%d\n\n",x); // Kontrol için.
+	printf("%d\n",x--); // YazdÄ±rdÄ±ktan sonra Ã§Ä±kartÄ±r.
+	printf("%d\n\n",x); // Kontrol iÃ§in.
 		
 	return 0;
 }
