@@ -23,4 +23,4 @@ f) akış diyagramı
 g) akış çizgileri
 h) başlangıç ve son
 i) operatör, stdio.h, stdlib.h
-j) aritmetik operatör
+j) karşılaştırma operatörü
