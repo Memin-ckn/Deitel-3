@@ -1,0 +1,26 @@
+a) Herhangi bir problemin çözümü, biri dizi ifadenin belli bir _______ içinde
+uygulanmasıdır.
+b) İşlemin eş anlamlısı _______ dir.
+c) Birkaç sayının toplamını tutan değişkene _______ denir.
+d) Belli değişkenlere programın başında belli değerlerin verilmesine _______ denir.
+e) “Veri girişi sonunu” ifade eden özel değere _______ denir. Bu değer _______,
+_______, _______ ya da _______.
+f) _______, bir algoritmanın grafiksel gösterimidir.
+g) Bir akış grafiğinde, adımların hangi sırayla gerçekleştirileceği _______
+sembolleriyle ifade edilir.
+h) Bitiş sembolü, her algoritmada _______ ve _______ belirtir.
+i) Dikdörtgen semboller, normalde _______ ifadeleri tarafından hesaplamalara ve
+_______ ve _______ standart kütüphane fonksiyonlarının çağrılmasıyla
+gerçekleştirilen giriş/çıkış operasyonlarına karşılık gelir.
+j) Bir karar sembolü içine yazılan nesneye _______ denir.
+
+a) sıra
+b) algoritma
+c) toplam değişkeni
+d) ilk değer atama
+e) 
+f) akış diyagramı
+g) akış çizgileri
+h) başlangıç ve son
+i) operatör, stdio.h, stdlib.h
+j) aritmetik operatör
