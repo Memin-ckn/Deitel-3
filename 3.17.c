@@ -14,7 +14,7 @@ Bitir
 
 int main(int argc, char *argv[]) {
 	
-	float galon=0, km=0, toplamKm=toplamKm+km, toplamGalon=toplamGalon+galon;
+	float galon=0, km=0, toplamKm=0, toplamGalon=0;
 	
 	while(galon!=-1){
 		
