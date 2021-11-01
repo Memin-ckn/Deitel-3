@@ -1,0 +1,33 @@
+a) 
+
+if (x < 10)
+if (y > 10)
+printf(“*****\n”);
+else
+printf(“#####\n”);
+printf(“$$$$$\n”);
+
+eğer x=9, y=11 ise; 'if (x < 10)' doğru olacağından
+'if (y > 10)' ifadesine bakar. O da doğru olduğu
+için '*****' yazdırır. 'printf(“$$$$$\n”);' ifadesi
+if'lerin içine dahil olmadığı için onu da 
+yazdırır.
+
+eğer x=11, y=9 ise; 'if (x < 10)' ifadesi 
+yanlış olacağından hepsini atlar ve ekrana
+'$$$$$' yazdırır.
+
+
+b) 
+
+if (x < 10) {
+if (y > 10)
+printf(“*****\n”);
+}
+else {
+printf(“#####\n”);
+ printf(“$$$$$\n”);
+ }
+
+eğer x=9, y=11 ise; '*****' yazdırır ve kapanır
+eğer x=11, y=9 ise; '#####' ve '$$$$$' yazdırır, kapanır.
