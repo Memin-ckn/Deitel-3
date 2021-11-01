@@ -3,7 +3,7 @@
 
 /*
 Başla
-galon, km, toplamKm ve toplamGalon değişkenlerini float olarak tanımla(toplamlara gerek olmayabilir ama böyle daha rahat olur.)
+galon, km, toplamKm ve toplamGalon değişkenlerini float olarak tanımla
 galon -1 olmadığı sürece while döngüsü çalıştır
 	galon için girdi iste/al
 	galon -1 değilse km girdisi al km/galon yazdır (if)
