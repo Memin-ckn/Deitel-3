@@ -8,7 +8,7 @@ galon -1 olmadığı sürece while döngüsü çalıştır
 	galon için girdi iste/al
 	galon -1 değilse km girdisi al km/galon yazdır (if)
 		toplamkm ve toplamgalon işlemlerini yaptır
-	toplam ortalama yazdır
+toplam ortalama yazdır
 Bitir
 */
 
@@ -31,10 +31,10 @@ int main(int argc, char *argv[]) {
 		toplamGalon=toplamGalon+galon;
 		
 	}
-	
-	printf("Toplam ortalama kilometre/galon: %f\n", toplamKm/toplamGalon);
 		
 	}
-		
+	
+	printf("Toplam ortalama kilometre/galon: %f\n", toplamKm/toplamGalon);
+	
 	return 0;
 }
